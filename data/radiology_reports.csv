@@ -1,0 +1,101 @@
+report_id,radiology_id,reported_at,radiologist_id,findings,impression,report_status
+RP0001,R0001,2025-01-03T09:45:00+00:00,H016,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0002,R0002,2025-02-17T09:45:00+00:00,H016,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0003,R0003,2025-04-03T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0004,R0004,2025-07-02T09:45:00+00:00,H016,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0005,R0005,2025-01-05T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0006,R0006,2025-02-19T09:45:00+00:00,H006,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0007,R0007,2025-05-20T09:45:00+00:00,H006,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0008,R0008,2025-07-04T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0009,R0009,2025-01-07T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0010,R0010,2025-02-21T09:45:00+00:00,H016,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0011,R0011,2025-04-07T09:45:00+00:00,H016,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0012,R0012,2025-05-22T09:45:00+00:00,H016,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0013,R0013,2025-07-06T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0014,R0014,2025-01-09T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0015,R0015,2025-02-23T09:45:00+00:00,H006,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0016,R0016,2025-05-24T09:45:00+00:00,H006,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0017,R0017,2025-07-08T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0018,R0018,2025-01-11T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0019,R0019,2025-04-11T09:45:00+00:00,H016,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0020,R0020,2025-05-26T09:45:00+00:00,H016,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0021,R0021,2025-07-10T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0022,R0022,2025-01-13T09:45:00+00:00,H006,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0023,R0023,2025-02-27T09:45:00+00:00,H006,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0024,R0024,2025-04-13T09:45:00+00:00,H006,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0025,R0025,2025-01-15T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0026,R0026,2025-04-15T09:45:00+00:00,H016,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0027,R0027,2025-03-03T09:45:00+00:00,H006,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0028,R0028,2025-04-17T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0029,R0029,2025-01-19T09:45:00+00:00,H016,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0030,R0030,2025-03-05T09:45:00+00:00,H016,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0031,R0031,2025-04-19T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0032,R0032,2025-03-07T09:45:00+00:00,H006,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0033,R0033,2025-04-21T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0034,R0034,2025-01-23T09:45:00+00:00,H016,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0035,R0035,2025-03-09T09:45:00+00:00,H016,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0036,R0036,2025-04-23T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0037,R0037,2025-01-25T09:45:00+00:00,H006,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0038,R0038,2025-03-11T09:45:00+00:00,H006,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0039,R0039,2025-04-25T09:45:00+00:00,H006,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0040,R0040,2025-01-27T09:45:00+00:00,H016,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0041,R0041,2025-03-13T09:45:00+00:00,H016,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0042,R0042,2025-04-27T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0043,R0043,2025-01-29T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0044,R0044,2025-03-15T09:45:00+00:00,H006,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0045,R0045,2025-01-31T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0046,R0046,2025-03-17T09:45:00+00:00,H016,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0047,R0047,2025-05-01T09:45:00+00:00,H016,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0048,R0048,2025-02-02T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0049,R0049,2025-03-19T09:45:00+00:00,H006,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0050,R0050,2025-02-04T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0051,R0051,2025-02-06T09:45:00+00:00,H006,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0052,R0052,2025-03-23T09:45:00+00:00,H006,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0053,R0053,2025-02-08T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0054,R0054,2025-03-27T09:45:00+00:00,H006,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0055,R0055,2025-02-12T09:45:00+00:00,H016,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0056,R0056,2025-03-29T09:45:00+00:00,H016,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0057,R0057,2025-03-31T09:45:00+00:00,H006,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0058,R0058,2025-02-16T09:45:00+00:00,H016,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0059,R0059,2025-04-02T09:45:00+00:00,H016,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0060,R0060,2025-02-18T09:45:00+00:00,H006,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0061,R0061,2025-04-04T09:45:00+00:00,H006,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0062,R0062,2025-02-20T09:45:00+00:00,H016,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0063,R0063,2025-04-06T09:45:00+00:00,H016,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0064,R0064,2025-02-22T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0065,R0065,2025-04-08T09:45:00+00:00,H006,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0066,R0066,2025-02-24T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0067,R0067,2025-04-10T09:45:00+00:00,H016,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0068,R0068,2025-02-26T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0069,R0069,2025-04-12T09:45:00+00:00,H006,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0070,R0070,2025-02-28T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0071,R0071,2025-03-02T09:45:00+00:00,H006,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0072,R0072,2025-04-16T09:45:00+00:00,H006,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0073,R0073,2025-03-04T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0074,R0074,2025-04-20T09:45:00+00:00,H006,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0075,R0075,2025-03-08T09:45:00+00:00,H016,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0076,R0076,2025-04-22T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0077,R0077,2025-04-24T09:45:00+00:00,H006,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0078,R0078,2025-03-12T09:45:00+00:00,H016,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0079,R0079,2025-04-26T09:45:00+00:00,H016,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0080,R0080,2025-03-14T09:45:00+00:00,H006,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0081,R0081,2025-04-28T09:45:00+00:00,H006,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0082,R0082,2025-03-16T09:45:00+00:00,H016,Fictional examination. Patchy lower-lung opacity.,Patchy lower-lung opacity.,FINAL
+RP0083,R0083,2025-04-30T09:45:00+00:00,H016,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0084,R0084,2025-03-18T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0085,R0085,2025-05-02T09:45:00+00:00,H006,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0086,R0086,2025-03-20T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0087,R0087,2025-05-04T09:45:00+00:00,H016,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0088,R0088,2025-03-22T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0089,R0089,2025-05-06T09:45:00+00:00,H006,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0090,R0090,2025-03-24T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL
+RP0091,R0091,2025-03-26T09:45:00+00:00,H006,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0092,R0092,2025-03-28T09:45:00+00:00,H016,Fictional examination. Diffuse bilateral airspace opacities.,Diffuse bilateral airspace opacities.,FINAL
+RP0093,R0093,2025-04-01T09:45:00+00:00,H016,Fictional examination. Focal ischemic change without visible hemorrhage.,Focal ischemic change without visible hemorrhage.,FINAL
+RP0094,R0094,2025-04-05T09:45:00+00:00,H016,Fictional examination. Inflamed colonic diverticula with surrounding inflammatory change.,Inflamed colonic diverticula with surrounding inflammatory change.,FINAL
+RP0095,R0095,2025-04-07T09:45:00+00:00,H006,Fictional examination. Pulmonary edema and enlarged cardiac silhouette.,Pulmonary edema and enlarged cardiac silhouette.,FINAL
+RP0096,R0096,2025-04-09T09:45:00+00:00,H016,Fictional examination. Bilateral patchy pulmonary opacities.,Bilateral patchy pulmonary opacities.,FINAL
+RP0097,R0097,2025-04-11T09:45:00+00:00,H006,Fictional examination. Mild pulmonary vascular congestion.,Mild pulmonary vascular congestion.,FINAL
+RP0098,R0098,2025-04-13T09:45:00+00:00,H016,Fictional examination. Inflamed appendix without visible abscess.,Inflamed appendix without visible abscess.,FINAL
+RP0099,R0099,2025-04-15T09:45:00+00:00,H006,Fictional examination. Gallstones with gallbladder wall thickening.,Gallstones with gallbladder wall thickening.,FINAL
+RP0100,R0100,2025-04-17T09:45:00+00:00,H016,Fictional examination. Intertrochanteric fracture.,Intertrochanteric fracture.,FINAL

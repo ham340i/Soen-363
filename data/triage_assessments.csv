@@ -1,0 +1,121 @@
+triage_id,admission_id,assessed_at,professional_id,priority,chief_complaint,heart_rate_bpm,temperature_c
+T0001,A0001,2025-01-03T07:03:00+00:00,H017,2,Fever and shortness of breath,77,38.7
+T0002,A0002,2025-02-17T07:03:00+00:00,H017,3,Right upper abdominal pain,103,36.9
+T0003,A0003,2025-04-03T07:03:00+00:00,H017,1,Severe breathing difficulty,114,37.5
+T0004,A0004,2025-05-18T07:03:00+00:00,H017,4,Lower-leg redness and swelling,88,38.3
+T0005,A0005,2025-07-02T07:03:00+00:00,H017,2,Fever and shortness of breath,81,38.9
+T0006,A0006,2025-01-05T07:03:00+00:00,H007,1,Acute chest discomfort,109,37.1
+T0007,A0007,2025-02-19T07:03:00+00:00,H007,2,Hip pain after a fictional fall,74,36.8
+T0008,A0008,2025-04-05T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,97,36.8
+T0009,A0009,2025-05-20T07:03:00+00:00,H007,2,Severe abdominal pain with systemic illness,103,36.7
+T0010,A0010,2025-07-04T07:03:00+00:00,H007,1,Acute chest discomfort,115,36.6
+T0011,A0011,2025-01-07T07:03:00+00:00,H017,2,Right lower abdominal pain,83,37.2
+T0012,A0012,2025-02-21T07:03:00+00:00,H017,1,Fever with circulatory instability,128,38.5
+T0013,A0013,2025-04-07T07:03:00+00:00,H017,2,Sudden limb weakness,85,37.4
+T0014,A0014,2025-05-22T07:03:00+00:00,H017,2,Breathlessness with leg swelling,74,37.1
+T0015,A0015,2025-07-06T07:03:00+00:00,H017,2,Right lower abdominal pain,100,37.2
+T0016,A0016,2025-01-09T07:03:00+00:00,H007,3,Right upper abdominal pain,81,37.6
+T0017,A0017,2025-02-23T07:03:00+00:00,H007,1,Severe breathing difficulty,125,37.5
+T0018,A0018,2025-04-09T07:03:00+00:00,H007,4,Lower-leg redness and swelling,94,39.0
+T0019,A0019,2025-05-24T07:03:00+00:00,H007,2,Fever and shortness of breath,94,38.6
+T0020,A0020,2025-07-08T07:03:00+00:00,H007,3,Right upper abdominal pain,101,36.6
+T0021,A0021,2025-01-11T07:03:00+00:00,H017,2,Hip pain after a fictional fall,93,36.8
+T0022,A0022,2025-02-25T07:03:00+00:00,H017,3,Dizziness with reduced fluid intake,85,37.5
+T0023,A0023,2025-04-11T07:03:00+00:00,H017,2,Severe abdominal pain with systemic illness,74,37.3
+T0024,A0024,2025-05-26T07:03:00+00:00,H017,1,Acute chest discomfort,117,37.2
+T0025,A0025,2025-07-10T07:03:00+00:00,H017,2,Hip pain after a fictional fall,76,37.1
+T0026,A0026,2025-01-13T07:03:00+00:00,H007,1,Fever with circulatory instability,128,38.0
+T0027,A0027,2025-02-27T07:03:00+00:00,H007,2,Sudden limb weakness,86,37.3
+T0028,A0028,2025-04-13T07:03:00+00:00,H007,2,Breathlessness with leg swelling,93,36.8
+T0029,A0029,2025-01-15T07:03:00+00:00,H017,1,Severe breathing difficulty,104,37.2
+T0030,A0030,2025-03-01T07:03:00+00:00,H017,4,Lower-leg redness and swelling,99,38.5
+T0031,A0031,2025-04-15T07:03:00+00:00,H017,2,Fever and shortness of breath,74,38.1
+T0032,A0032,2025-01-17T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,82,37.5
+T0033,A0033,2025-03-03T07:03:00+00:00,H007,2,Severe abdominal pain with systemic illness,81,37.2
+T0034,A0034,2025-04-17T07:03:00+00:00,H007,1,Acute chest discomfort,119,37.2
+T0035,A0035,2025-01-19T07:03:00+00:00,H017,2,Sudden limb weakness,97,36.6
+T0036,A0036,2025-03-05T07:03:00+00:00,H017,2,Breathlessness with leg swelling,105,36.6
+T0037,A0037,2025-04-19T07:03:00+00:00,H017,2,Right lower abdominal pain,84,37.4
+T0038,A0038,2025-01-21T07:03:00+00:00,H007,4,Lower-leg redness and swelling,103,38.2
+T0039,A0039,2025-03-07T07:03:00+00:00,H007,2,Fever and shortness of breath,77,38.6
+T0040,A0040,2025-04-21T07:03:00+00:00,H007,3,Right upper abdominal pain,98,36.9
+T0041,A0041,2025-01-23T07:03:00+00:00,H017,2,Severe abdominal pain with systemic illness,92,36.6
+T0042,A0042,2025-03-09T07:03:00+00:00,H017,1,Acute chest discomfort,122,37.3
+T0043,A0043,2025-04-23T07:03:00+00:00,H017,2,Hip pain after a fictional fall,105,37.5
+T0044,A0044,2025-01-25T07:03:00+00:00,H007,2,Breathlessness with leg swelling,96,37.1
+T0045,A0045,2025-03-11T07:03:00+00:00,H007,2,Right lower abdominal pain,104,37.5
+T0046,A0046,2025-04-25T07:03:00+00:00,H007,1,Fever with circulatory instability,109,38.1
+T0047,A0047,2025-01-27T07:03:00+00:00,H017,2,Fever and shortness of breath,85,38.8
+T0048,A0048,2025-03-13T07:03:00+00:00,H017,3,Right upper abdominal pain,83,37.6
+T0049,A0049,2025-04-27T07:03:00+00:00,H017,1,Severe breathing difficulty,102,37.4
+T0050,A0050,2025-01-29T07:03:00+00:00,H007,1,Acute chest discomfort,128,37.6
+T0051,A0051,2025-03-15T07:03:00+00:00,H007,2,Hip pain after a fictional fall,100,36.7
+T0052,A0052,2025-04-29T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,105,37.2
+T0053,A0053,2025-01-31T07:03:00+00:00,H017,2,Right lower abdominal pain,104,37.1
+T0054,A0054,2025-03-17T07:03:00+00:00,H017,1,Fever with circulatory instability,121,38.4
+T0055,A0055,2025-05-01T07:03:00+00:00,H017,2,Sudden limb weakness,88,36.5
+T0056,A0056,2025-02-02T07:03:00+00:00,H007,3,Right upper abdominal pain,84,36.8
+T0057,A0057,2025-03-19T07:03:00+00:00,H007,1,Severe breathing difficulty,103,37.5
+T0058,A0058,2025-02-04T07:03:00+00:00,H017,2,Hip pain after a fictional fall,104,36.6
+T0059,A0059,2025-03-21T07:03:00+00:00,H017,3,Dizziness with reduced fluid intake,90,36.8
+T0060,A0060,2025-02-06T07:03:00+00:00,H007,1,Fever with circulatory instability,109,38.2
+T0061,A0061,2025-03-23T07:03:00+00:00,H007,2,Sudden limb weakness,104,37.0
+T0062,A0062,2025-02-08T07:03:00+00:00,H017,1,Severe breathing difficulty,125,36.8
+T0063,A0063,2025-03-25T07:03:00+00:00,H017,4,Lower-leg redness and swelling,77,38.3
+T0064,A0064,2025-02-10T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,93,37.0
+T0065,A0065,2025-03-27T07:03:00+00:00,H007,2,Severe abdominal pain with systemic illness,90,37.4
+T0066,A0066,2025-02-12T07:03:00+00:00,H017,2,Sudden limb weakness,88,36.8
+T0067,A0067,2025-03-29T07:03:00+00:00,H017,2,Breathlessness with leg swelling,100,36.6
+T0068,A0068,2025-02-14T07:03:00+00:00,H007,4,Lower-leg redness and swelling,82,38.5
+T0069,A0069,2025-03-31T07:03:00+00:00,H007,2,Fever and shortness of breath,89,38.5
+T0070,A0070,2025-02-16T07:03:00+00:00,H017,2,Severe abdominal pain with systemic illness,104,37.4
+T0071,A0071,2025-04-02T07:03:00+00:00,H017,1,Acute chest discomfort,121,36.6
+T0072,A0072,2025-02-18T07:03:00+00:00,H007,2,Breathlessness with leg swelling,76,37.3
+T0073,A0073,2025-04-04T07:03:00+00:00,H007,2,Right lower abdominal pain,74,36.7
+T0074,A0074,2025-02-20T07:03:00+00:00,H017,2,Fever and shortness of breath,89,38.7
+T0075,A0075,2025-04-06T07:03:00+00:00,H017,3,Right upper abdominal pain,80,37.6
+T0076,A0076,2025-02-22T07:03:00+00:00,H007,1,Acute chest discomfort,119,36.7
+T0077,A0077,2025-04-08T07:03:00+00:00,H007,2,Hip pain after a fictional fall,89,36.6
+T0078,A0078,2025-02-24T07:03:00+00:00,H017,2,Right lower abdominal pain,104,36.8
+T0079,A0079,2025-04-10T07:03:00+00:00,H017,1,Fever with circulatory instability,107,38.7
+T0080,A0080,2025-02-26T07:03:00+00:00,H007,3,Right upper abdominal pain,79,37.4
+T0081,A0081,2025-04-12T07:03:00+00:00,H007,1,Severe breathing difficulty,103,37.3
+T0082,A0082,2025-02-28T07:03:00+00:00,H017,2,Hip pain after a fictional fall,91,37.2
+T0083,A0083,2025-04-14T07:03:00+00:00,H017,3,Dizziness with reduced fluid intake,86,36.7
+T0084,A0084,2025-03-02T07:03:00+00:00,H007,1,Fever with circulatory instability,118,39.0
+T0085,A0085,2025-04-16T07:03:00+00:00,H007,2,Sudden limb weakness,96,36.8
+T0086,A0086,2025-03-04T07:03:00+00:00,H017,1,Severe breathing difficulty,116,36.9
+T0087,A0087,2025-04-18T07:03:00+00:00,H017,4,Lower-leg redness and swelling,92,39.1
+T0088,A0088,2025-03-06T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,78,37.3
+T0089,A0089,2025-04-20T07:03:00+00:00,H007,2,Severe abdominal pain with systemic illness,94,37.2
+T0090,A0090,2025-03-08T07:03:00+00:00,H017,2,Sudden limb weakness,103,37.4
+T0091,A0091,2025-04-22T07:03:00+00:00,H017,1,Severe breathing difficulty,104,37.5
+T0092,A0092,2025-03-10T07:03:00+00:00,H007,4,Lower-leg redness and swelling,89,38.5
+T0093,A0093,2025-04-24T07:03:00+00:00,H007,2,Fever and shortness of breath,76,38.9
+T0094,A0094,2025-03-12T07:03:00+00:00,H017,2,Severe abdominal pain with systemic illness,94,37.1
+T0095,A0095,2025-04-26T07:03:00+00:00,H017,1,Acute chest discomfort,122,37.4
+T0096,A0096,2025-03-14T07:03:00+00:00,H007,2,Breathlessness with leg swelling,105,37.0
+T0097,A0097,2025-04-28T07:03:00+00:00,H007,2,Right lower abdominal pain,102,37.0
+T0098,A0098,2025-03-16T07:03:00+00:00,H017,2,Fever and shortness of breath,91,39.0
+T0099,A0099,2025-04-30T07:03:00+00:00,H017,3,Right upper abdominal pain,77,36.7
+T0100,A0100,2025-03-18T07:03:00+00:00,H007,1,Acute chest discomfort,104,37.2
+T0101,A0101,2025-05-02T07:03:00+00:00,H007,2,Hip pain after a fictional fall,97,37.3
+T0102,A0102,2025-03-20T07:03:00+00:00,H017,2,Right lower abdominal pain,91,37.3
+T0103,A0103,2025-05-04T07:03:00+00:00,H017,1,Fever with circulatory instability,114,38.2
+T0104,A0104,2025-03-22T07:03:00+00:00,H007,3,Right upper abdominal pain,86,36.9
+T0105,A0105,2025-05-06T07:03:00+00:00,H007,1,Severe breathing difficulty,121,37.3
+T0106,A0106,2025-03-24T07:03:00+00:00,H017,2,Hip pain after a fictional fall,104,37.2
+T0107,A0107,2025-03-26T07:03:00+00:00,H007,1,Fever with circulatory instability,113,38.4
+T0108,A0108,2025-03-28T07:03:00+00:00,H017,1,Severe breathing difficulty,125,37.1
+T0109,A0109,2025-03-30T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,98,37.1
+T0110,A0110,2025-04-01T07:03:00+00:00,H017,2,Sudden limb weakness,87,37.2
+T0111,A0111,2025-04-03T07:03:00+00:00,H007,4,Lower-leg redness and swelling,104,39.1
+T0112,A0112,2025-04-05T07:03:00+00:00,H017,2,Severe abdominal pain with systemic illness,101,37.0
+T0113,A0113,2025-04-07T07:03:00+00:00,H007,2,Breathlessness with leg swelling,87,36.8
+T0114,A0114,2025-04-09T07:03:00+00:00,H017,1,Fever with circulatory instability,112,38.8
+T0115,A0115,2025-04-11T07:03:00+00:00,H007,1,Acute chest discomfort,117,37.3
+T0116,A0116,2025-04-13T07:03:00+00:00,H017,2,Right lower abdominal pain,81,36.9
+T0117,A0117,2025-04-15T07:03:00+00:00,H007,3,Right upper abdominal pain,91,36.8
+T0118,A0118,2025-04-17T07:03:00+00:00,H017,2,Hip pain after a fictional fall,87,37.3
+T0119,A0119,2025-04-19T07:03:00+00:00,H007,3,Dizziness with reduced fluid intake,98,37.3
+T0120,A0120,2025-04-21T07:03:00+00:00,H017,4,Lower-leg redness and swelling,78,38.2

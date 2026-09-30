@@ -1,0 +1,13 @@
+unit_id,unit_name,unit_type
+U01,Fable Hospital Emergency Department,ED
+U02,Fable Hospital Intensive Care,ICU
+U03,Fable Hospital Coronary Care,CCU
+U04,Fable Hospital Medical Intensive Care,MICU
+U05,Fable Hospital Surgical Intensive Care,SICU
+U06,Fable Hospital General Medicine,MED
+U07,Fable Hospital General Surgery,SURG
+U08,Fable Hospital Cardiology,CARD
+U09,Fable Hospital Orthopedics,ORTH
+U10,Fable Hospital Neurology,NEUR
+U11,Fable Hospital Step-down Care,STEP
+U12,Fable Hospital Rehabilitation,REHAB

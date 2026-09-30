@@ -1,0 +1,41 @@
+icd9_code,official_title,description,disease_category
+401.9,Unspecified essential hypertension,Reference label for fictional circulatory episodes: Unspecified essential hypertension.,Circulatory
+410.91,"Acute myocardial infarction of unspecified site, initial episode of care","Reference label for fictional circulatory episodes: Acute myocardial infarction of unspecified site, initial episode of care.",Circulatory
+785.52,Septic shock,Reference label for fictional circulatory episodes: Septic shock.,Circulatory
+434.91,"Cerebral artery occlusion, unspecified with cerebral infarction","Reference label for fictional circulatory episodes: Cerebral artery occlusion, unspecified with cerebral infarction.",Circulatory
+428.0,"Congestive heart failure, unspecified","Reference label for fictional circulatory episodes: Congestive heart failure, unspecified.",Circulatory
+427.31,Atrial fibrillation,Reference label for fictional circulatory episodes: Atrial fibrillation.,Circulatory
+250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled","Reference label for fictional endocrine and metabolic episodes: Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled.",Endocrine and metabolic
+272.4,Other and unspecified hyperlipidemia,Reference label for fictional endocrine and metabolic episodes: Other and unspecified hyperlipidemia.,Endocrine and metabolic
+276.51,Dehydration,Reference label for fictional endocrine and metabolic episodes: Dehydration.,Endocrine and metabolic
+244.9,Unspecified acquired hypothyroidism,Reference label for fictional endocrine and metabolic episodes: Unspecified acquired hypothyroidism.,Endocrine and metabolic
+276.1,Hyposmolality and/or hyponatremia,Reference label for fictional endocrine and metabolic episodes: Hyposmolality and/or hyponatremia.,Endocrine and metabolic
+276.8,Hypopotassemia,Reference label for fictional endocrine and metabolic episodes: Hypopotassemia.,Endocrine and metabolic
+278.00,"Obesity, unspecified","Reference label for fictional endocrine and metabolic episodes: Obesity, unspecified.",Endocrine and metabolic
+486,"Pneumonia, organism unspecified","Reference label for fictional respiratory episodes: Pneumonia, organism unspecified.",Respiratory
+518.81,Acute respiratory failure,Reference label for fictional respiratory episodes: Acute respiratory failure.,Respiratory
+493.90,"Asthma, unspecified type, unspecified","Reference label for fictional respiratory episodes: Asthma, unspecified type, unspecified.",Respiratory
+496,"Chronic airway obstruction, not elsewhere classified","Reference label for fictional respiratory episodes: Chronic airway obstruction, not elsewhere classified.",Respiratory
+491.21,Obstructive chronic bronchitis with (acute) exacerbation,Reference label for fictional respiratory episodes: Obstructive chronic bronchitis with (acute) exacerbation.,Respiratory
+327.23,Obstructive sleep apnea (adult)(pediatric),Reference label for fictional respiratory episodes: Obstructive sleep apnea (adult)(pediatric).,Respiratory
+540.9,Acute appendicitis without mention of peritonitis,Reference label for fictional digestive episodes: Acute appendicitis without mention of peritonitis.,Digestive
+574.00,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction","Reference label for fictional digestive episodes: Calculus of gallbladder with acute cholecystitis, without mention of obstruction.",Digestive
+562.11,Diverticulitis of colon (without mention of hemorrhage),Reference label for fictional digestive episodes: Diverticulitis of colon (without mention of hemorrhage).,Digestive
+530.81,Esophageal reflux,Reference label for fictional digestive episodes: Esophageal reflux.,Digestive
+577.0,Acute pancreatitis,Reference label for fictional digestive episodes: Acute pancreatitis.,Digestive
+560.9,Unspecified intestinal obstruction,Reference label for fictional digestive episodes: Unspecified intestinal obstruction.,Digestive
+820.21,Closed fracture of intertrochanteric section of neck of femur,Reference label for fictional injury episodes: Closed fracture of intertrochanteric section of neck of femur.,Injury
+038.9,Unspecified septicemia,Reference label for fictional infectious episodes: Unspecified septicemia.,Infectious
+008.8,"Intestinal infection due to other organism, not elsewhere classified","Reference label for fictional infectious episodes: Intestinal infection due to other organism, not elsewhere classified.",Infectious
+995.92,Severe sepsis,Reference label for fictional systemic complications episodes: Severe sepsis.,Systemic complications
+682.6,"Cellulitis and abscess of leg, except foot","Reference label for fictional skin episodes: Cellulitis and abscess of leg, except foot.",Skin
+285.9,"Anemia, unspecified","Reference label for fictional blood episodes: Anemia, unspecified.",Blood
+599.0,"Urinary tract infection, site not specified","Reference label for fictional genitourinary episodes: Urinary tract infection, site not specified.",Genitourinary
+584.9,"Acute kidney failure, unspecified","Reference label for fictional genitourinary episodes: Acute kidney failure, unspecified.",Genitourinary
+585.3,"Chronic kidney disease, Stage III (moderate)","Reference label for fictional genitourinary episodes: Chronic kidney disease, Stage III (moderate).",Genitourinary
+780.2,Syncope and collapse,Reference label for fictional symptoms episodes: Syncope and collapse.,Symptoms
+786.50,"Chest pain, unspecified","Reference label for fictional symptoms episodes: Chest pain, unspecified.",Symptoms
+789.00,"Abdominal pain, unspecified site","Reference label for fictional symptoms episodes: Abdominal pain, unspecified site.",Symptoms
+784.0,Headache,Reference label for fictional symptoms episodes: Headache.,Symptoms
+274.9,"Gout, unspecified","Reference label for fictional musculoskeletal episodes: Gout, unspecified.",Musculoskeletal
+715.90,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified","Reference label for fictional musculoskeletal episodes: Osteoarthrosis, unspecified whether generalized or localized, site unspecified.",Musculoskeletal

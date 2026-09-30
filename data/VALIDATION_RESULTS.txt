@@ -1,0 +1,19 @@
+patients.csv: 60 records
+admissions.csv: 120 records
+triage_assessments.csv: 120 records
+healthcare_professionals.csv: 25 records
+hospital_units.csv: 12 records
+unit_stays.csv: 349 records
+diagnostic_orders.csv: 340 records
+diagnostic_examinations.csv: 340 records
+radiology_examinations.csv: 100 records
+radiology_reports.csv: 100 records
+surgical_procedures.csv: 41 records
+clinical_notes.csv: 750 records
+diagnoses.csv: 410 records
+icd9_dictionary.csv: 40 records
+discharge_records.csv: 120 records
+PASS: 15 CSV datasets; 0 data errors.
+Checked unique IDs, references, timestamps, admission bounds, primary diagnoses,
+ICD-9 references, order/examination/report timing, transfers, birth/death consistency,
+and non-overlapping patient admissions. Checks apply to these source files only.

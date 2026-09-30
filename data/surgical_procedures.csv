@@ -1,0 +1,42 @@
+procedure_id,admission_id,procedure_name,surgeon_id,started_at,ended_at,location_label,procedure_status
+S0001,A0002,Laparoscopic cholecystectomy,H014,2025-02-17T13:00:00+00:00,2025-02-17T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0002,A0007,Internal fixation of hip fracture,H025,2025-02-19T13:00:00+00:00,2025-02-19T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0003,A0009,Segmental colectomy,H024,2025-05-20T13:00:00+00:00,2025-05-20T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0004,A0011,Laparoscopic appendectomy,H004,2025-01-07T13:00:00+00:00,2025-01-07T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0005,A0015,Laparoscopic appendectomy,H004,2025-07-06T13:00:00+00:00,2025-07-06T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0006,A0016,Laparoscopic cholecystectomy,H014,2025-01-09T13:00:00+00:00,2025-01-09T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0007,A0020,Laparoscopic cholecystectomy,H014,2025-07-08T13:00:00+00:00,2025-07-08T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0008,A0021,Internal fixation of hip fracture,H025,2025-01-11T13:00:00+00:00,2025-01-11T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0009,A0023,Segmental colectomy,H024,2025-04-11T13:00:00+00:00,2025-04-11T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0010,A0025,Internal fixation of hip fracture,H025,2025-07-10T13:00:00+00:00,2025-07-10T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0011,A0033,Segmental colectomy,H024,2025-03-03T13:00:00+00:00,2025-03-03T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0012,A0037,Laparoscopic appendectomy,H004,2025-04-19T13:00:00+00:00,2025-04-19T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0013,A0040,Laparoscopic cholecystectomy,H014,2025-04-21T13:00:00+00:00,2025-04-21T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0014,A0041,Segmental colectomy,H024,2025-01-23T13:00:00+00:00,2025-01-23T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0015,A0043,Internal fixation of hip fracture,H025,2025-04-23T13:00:00+00:00,2025-04-23T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0016,A0045,Laparoscopic appendectomy,H004,2025-03-11T13:00:00+00:00,2025-03-11T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0017,A0048,Laparoscopic cholecystectomy,H014,2025-03-13T13:00:00+00:00,2025-03-13T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0018,A0051,Internal fixation of hip fracture,H025,2025-03-15T13:00:00+00:00,2025-03-15T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0019,A0053,Laparoscopic appendectomy,H004,2025-01-31T13:00:00+00:00,2025-01-31T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0020,A0056,Laparoscopic cholecystectomy,H014,2025-02-02T13:00:00+00:00,2025-02-02T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0021,A0058,Internal fixation of hip fracture,H025,2025-02-04T13:00:00+00:00,2025-02-04T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0022,A0065,Segmental colectomy,H024,2025-03-27T13:00:00+00:00,2025-03-27T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0023,A0070,Segmental colectomy,H024,2025-02-16T13:00:00+00:00,2025-02-16T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0024,A0073,Laparoscopic appendectomy,H004,2025-04-04T13:00:00+00:00,2025-04-04T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0025,A0075,Laparoscopic cholecystectomy,H014,2025-04-06T13:00:00+00:00,2025-04-06T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0026,A0077,Internal fixation of hip fracture,H025,2025-04-08T13:00:00+00:00,2025-04-08T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0027,A0078,Laparoscopic appendectomy,H004,2025-02-24T13:00:00+00:00,2025-02-24T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0028,A0080,Laparoscopic cholecystectomy,H014,2025-02-26T13:00:00+00:00,2025-02-26T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0029,A0082,Internal fixation of hip fracture,H025,2025-02-28T13:00:00+00:00,2025-02-28T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0030,A0089,Segmental colectomy,H024,2025-04-20T13:00:00+00:00,2025-04-20T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0031,A0094,Segmental colectomy,H024,2025-03-12T13:00:00+00:00,2025-03-12T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0032,A0097,Laparoscopic appendectomy,H004,2025-04-28T13:00:00+00:00,2025-04-28T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0033,A0099,Laparoscopic cholecystectomy,H014,2025-04-30T13:00:00+00:00,2025-04-30T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0034,A0101,Internal fixation of hip fracture,H025,2025-05-02T13:00:00+00:00,2025-05-02T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0035,A0102,Laparoscopic appendectomy,H004,2025-03-20T13:00:00+00:00,2025-03-20T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0036,A0104,Laparoscopic cholecystectomy,H014,2025-03-22T13:00:00+00:00,2025-03-22T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0037,A0106,Internal fixation of hip fracture,H025,2025-03-24T13:00:00+00:00,2025-03-24T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0038,A0112,Segmental colectomy,H024,2025-04-05T13:00:00+00:00,2025-04-05T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0039,A0116,Laparoscopic appendectomy,H004,2025-04-13T13:00:00+00:00,2025-04-13T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0040,A0117,Laparoscopic cholecystectomy,H014,2025-04-15T13:00:00+00:00,2025-04-15T15:00:00+00:00,Fictional operating room 01,COMPLETED
+S0041,A0118,Internal fixation of hip fracture,H025,2025-04-17T13:00:00+00:00,2025-04-17T15:00:00+00:00,Fictional operating room 01,COMPLETED
