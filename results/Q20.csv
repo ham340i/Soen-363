@@ -1,0 +1,42 @@
+patient_name,admission_id,procedure_type,radiology_type,common_date
+Aven Fablebrook-Synthetic,A0002,Laparoscopic cholecystectomy,US,2025-02-17
+Neri Fablebrook-Synthetic,A0007,Internal fixation of hip fracture,XR,2025-02-19
+Neri Fablebrook-Synthetic,A0009,Segmental colectomy,CT,2025-05-20
+Talin Fablebrook-Synthetic,A0011,Laparoscopic appendectomy,CT,2025-01-07
+Talin Fablebrook-Synthetic,A0015,Laparoscopic appendectomy,CT,2025-07-06
+Mira Fablebrook-Synthetic,A0016,Laparoscopic cholecystectomy,US,2025-01-09
+Mira Fablebrook-Synthetic,A0020,Laparoscopic cholecystectomy,US,2025-07-08
+Oren Fablebrook-Synthetic,A0021,Internal fixation of hip fracture,XR,2025-01-11
+Oren Fablebrook-Synthetic,A0023,Segmental colectomy,CT,2025-04-11
+Oren Fablebrook-Synthetic,A0025,Internal fixation of hip fracture,XR,2025-07-10
+Evin Fablebrook-Synthetic,A0033,Segmental colectomy,CT,2025-03-03
+Runa Fablebrook-Synthetic,A0037,Laparoscopic appendectomy,CT,2025-04-19
+Zeli Fablebrook-Synthetic,A0040,Laparoscopic cholecystectomy,US,2025-04-21
+Aven Cloudmere-Synthetic,A0041,Segmental colectomy,CT,2025-01-23
+Aven Cloudmere-Synthetic,A0043,Internal fixation of hip fracture,XR,2025-04-23
+Neri Cloudmere-Synthetic,A0045,Laparoscopic appendectomy,CT,2025-03-11
+Talin Cloudmere-Synthetic,A0048,Laparoscopic cholecystectomy,US,2025-03-13
+Mira Cloudmere-Synthetic,A0051,Internal fixation of hip fracture,XR,2025-03-15
+Oren Cloudmere-Synthetic,A0053,Laparoscopic appendectomy,CT,2025-01-31
+Lumi Cloudmere-Synthetic,A0056,Laparoscopic cholecystectomy,US,2025-02-02
+Sora Cloudmere-Synthetic,A0058,Internal fixation of hip fracture,XR,2025-02-04
+Zeli Cloudmere-Synthetic,A0065,Segmental colectomy,CT,2025-03-27
+Talin Willowcrest-Synthetic,A0070,Segmental colectomy,CT,2025-02-16
+Mira Willowcrest-Synthetic,A0073,Laparoscopic appendectomy,CT,2025-04-04
+Oren Willowcrest-Synthetic,A0075,Laparoscopic cholecystectomy,US,2025-04-06
+Lumi Willowcrest-Synthetic,A0077,Internal fixation of hip fracture,XR,2025-04-08
+Sora Willowcrest-Synthetic,A0078,Laparoscopic appendectomy,CT,2025-02-24
+Evin Willowcrest-Synthetic,A0080,Laparoscopic cholecystectomy,US,2025-02-26
+Runa Willowcrest-Synthetic,A0082,Internal fixation of hip fracture,XR,2025-02-28
+Neri Starfen-Synthetic,A0089,Segmental colectomy,CT,2025-04-20
+Oren Starfen-Synthetic,A0094,Segmental colectomy,CT,2025-03-12
+Lumi Starfen-Synthetic,A0097,Laparoscopic appendectomy,CT,2025-04-28
+Sora Starfen-Synthetic,A0099,Laparoscopic cholecystectomy,US,2025-04-30
+Evin Starfen-Synthetic,A0101,Internal fixation of hip fracture,XR,2025-05-02
+Runa Starfen-Synthetic,A0102,Laparoscopic appendectomy,CT,2025-03-20
+Zeli Starfen-Synthetic,A0104,Laparoscopic cholecystectomy,US,2025-03-22
+Aven Mossvale-Synthetic,A0106,Internal fixation of hip fracture,XR,2025-03-24
+Sora Mossvale-Synthetic,A0112,Segmental colectomy,CT,2025-04-05
+Aven Dawnridge-Synthetic,A0116,Laparoscopic appendectomy,CT,2025-04-13
+Neri Dawnridge-Synthetic,A0117,Laparoscopic cholecystectomy,US,2025-04-15
+Talin Dawnridge-Synthetic,A0118,Internal fixation of hip fracture,XR,2025-04-17

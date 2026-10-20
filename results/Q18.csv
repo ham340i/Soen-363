@@ -1,0 +1,56 @@
+patient_name,note_type,note_timestamp,note_text
+Aven Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-07-06T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Neri Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-07-15T07:00:00+00:00,Fictional discharge summary: RECOVERY documented; follow-up arranged.
+Talin Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-07-09T01:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Mira Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-07-11T19:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Oren Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-07-16T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Lumi Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-04-17T19:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Sora Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-04-18T19:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Evin Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-04-28T13:00:00+00:00,Fictional discharge summary: RECOVERY documented; follow-up arranged.
+Runa Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-04-22T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Zeli Fablebrook-Synthetic,DISCHARGE_SUMMARY,2025-04-24T07:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Aven Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-04-29T13:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Neri Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-05-09T19:00:00+00:00,Fictional episode ended with in-hospital death; family discussion documented.
+Talin Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-05-09T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Mira Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-04-30T13:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Oren Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-05-06T19:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Lumi Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-03-31T19:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Sora Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-03-22T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Evin Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-03-28T13:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Runa Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-03-27T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Zeli Cloudmere-Synthetic,DISCHARGE_SUMMARY,2025-04-08T19:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Aven Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-02T13:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Neri Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-04T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Talin Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-13T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Mira Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-07T01:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Oren Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-09T19:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Lumi Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-14T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Sora Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-24T13:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Evin Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-24T19:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Runa Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-15T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Zeli Willowcrest-Synthetic,DISCHARGE_SUMMARY,2025-04-21T13:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Aven Starfen-Synthetic,DISCHARGE_SUMMARY,2025-04-20T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Neri Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-02T19:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Talin Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-04T13:00:00+00:00,Fictional episode ended with in-hospital death; family discussion documented.
+Mira Starfen-Synthetic,DISCHARGE_SUMMARY,2025-04-28T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Oren Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-07T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Lumi Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-01T01:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Sora Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-03T19:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Evin Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-08T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Runa Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-18T13:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Zeli Starfen-Synthetic,DISCHARGE_SUMMARY,2025-05-18T19:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Aven Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-03-30T19:00:00+00:00,Fictional discharge summary: RECOVERY documented; follow-up arranged.
+Neri Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-09T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Talin Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-09T13:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Mira Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-03-31T19:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Oren Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-06T07:00:00+00:00,Fictional discharge summary: RECOVERY documented; follow-up arranged.
+Lumi Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-05T01:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Sora Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-18T07:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Evin Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-11T07:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Runa Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-23T13:00:00+00:00,Fictional episode ended with in-hospital death; family discussion documented.
+Zeli Mossvale-Synthetic,DISCHARGE_SUMMARY,2025-04-22T19:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Aven Dawnridge-Synthetic,DISCHARGE_SUMMARY,2025-04-15T19:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.
+Neri Dawnridge-Synthetic,DISCHARGE_SUMMARY,2025-04-18T13:00:00+00:00,Fictional discharge summary: Recovery documented; follow-up arranged.
+Talin Dawnridge-Synthetic,DISCHARGE_SUMMARY,2025-04-23T19:00:00+00:00,Fictional discharge summary: RECOVERY documented; follow-up arranged.
+Mira Dawnridge-Synthetic,DISCHARGE_SUMMARY,2025-04-20T07:00:00+00:00,Fictional discharge summary: ReCoVeRy documented; follow-up arranged.
+Oren Dawnridge-Synthetic,DISCHARGE_SUMMARY,2025-04-23T01:00:00+00:00,Fictional discharge summary: recovery documented; follow-up arranged.

@@ -1,0 +1,2 @@
+patient_name,admission_id,admission_timestamp,discharge_timestamp,stay_hours
+Neri Cloudmere-Synthetic,A0046,2025-04-25T07:00:00+00:00,2025-05-09T19:00:00+00:00,348.0
