@@ -5,4 +5,5 @@ WITH per_admission AS (
  GROUP BY a.admission_id)
 SELECT p.patient_id,p.given_name || ' ' || p.family_name AS patient_name,COALESCE(SUM(x.transfers),0) AS total_transfers
 FROM patients p LEFT JOIN per_admission x ON x.patient_id=p.patient_id
-GROUP BY p.patient_id ORDER BY p.patient_id;
+GROUP BY p.patient_id
+ORDER BY p.patient_id ASC;
