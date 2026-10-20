@@ -7,4 +7,4 @@ JOIN unit_stays cc ON cc.admission_id=a.admission_id
 JOIN hospital_units ucc ON ucc.unit_id=cc.unit_id
 WHERE ued.unit_type='ED' AND ucc.unit_type IN ('ICU','CCU')
 AND julianday(cc.entry_timestamp)>julianday(ed.entry_timestamp)
-ORDER BY a.admission_id;
+ORDER BY a.admission_id ASC;
