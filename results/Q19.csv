@@ -1,0 +1,4 @@
+patient_name,admission_timestamp,death_timestamp,icd9_code,official_title
+Runa Mossvale-Synthetic,2025-04-09T07:00:00+00:00,2025-04-23T13:00:00+00:00,038.9,Unspecified septicemia
+Talin Starfen-Synthetic,2025-04-22T07:00:00+00:00,2025-05-04T13:00:00+00:00,518.81,Acute respiratory failure
+Neri Cloudmere-Synthetic,2025-04-25T07:00:00+00:00,2025-05-09T19:00:00+00:00,038.9,Unspecified septicemia

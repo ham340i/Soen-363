@@ -1,0 +1,206 @@
+@startuml
+' SOEN 363 - Hospital Management System
+' ER diagram aligned to the current 15 CSV data files.
+title SOEN 363 - Hospital Management System - ER Diagram
+hide circle
+skinparam linetype ortho
+skinparam shadowing false
+skinparam entity {
+  BackgroundColor #F3F8FF
+  BorderColor #35618D
+  FontColor #142C43
+}
+left to right direction
+
+entity "Patient" as Patient {
+  * patient_id : VARCHAR(10) <<PK>>
+  --
+  given_name : VARCHAR(100)
+  family_name : VARCHAR(100)
+  date_of_birth : DATE
+  recorded_sex : CHAR(1)
+  deceased : BOOLEAN
+  death_timestamp : TIMESTAMP [nullable]
+}
+
+entity "Admission" as Admission {
+  * admission_id : VARCHAR(10) <<PK>>
+  --
+  patient_id : VARCHAR(10) <<FK>>
+  attending_professional_id : VARCHAR(10) <<FK>>
+  admission_timestamp : TIMESTAMP
+  admission_type : VARCHAR(30)
+  status : VARCHAR(30)
+  presenting_complaint : TEXT
+}
+
+entity "TriageAssessment" as Triage {
+  * triage_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  professional_id : VARCHAR(10) <<FK>>
+  assessed_at : TIMESTAMP
+  priority : INTEGER
+  chief_complaint : TEXT
+  heart_rate_bpm : INTEGER
+  temperature_c : DECIMAL
+}
+
+entity "HealthcareProfessional" as Staff {
+  * professional_id : VARCHAR(10) <<PK>>
+  --
+  display_name : VARCHAR(100)
+  role : VARCHAR(60)
+  specialty : VARCHAR(100)
+}
+
+entity "ClinicalNote" as Note {
+  * note_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  professional_id : VARCHAR(10) <<FK>>
+  note_timestamp : TIMESTAMP
+  note_type : VARCHAR(60)
+  note_text : TEXT
+}
+
+entity "DiagnosticOrder" as Orders {
+  * order_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  ordering_professional_id : VARCHAR(10) <<FK>>
+  ordered_at : TIMESTAMP
+  order_type : VARCHAR(50)
+  requested_test : VARCHAR(160)
+  status : VARCHAR(30)
+}
+
+entity "DiagnosticExamination" as Exam {
+  * examination_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  order_id : VARCHAR(10) <<FK>>
+  professional_id : VARCHAR(10) <<FK>>
+  performed_at : TIMESTAMP
+  result_at : TIMESTAMP
+  examination_type : VARCHAR(50)
+  examination_name : VARCHAR(160)
+  result_text : TEXT
+}
+
+entity "RadiologyExamination" as Radio {
+  * radiology_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  examination_id : VARCHAR(10) <<FK, UNIQUE>>
+  performing_professional_id : VARCHAR(10) <<FK>>
+  modality : VARCHAR(60)
+  body_region : VARCHAR(80)
+  started_at : TIMESTAMP
+  ended_at : TIMESTAMP
+}
+
+entity "RadiologyReport" as Report {
+  * report_id : VARCHAR(10) <<PK>>
+  --
+  radiology_id : VARCHAR(10) <<FK>>
+  radiologist_id : VARCHAR(10) <<FK>>
+  reported_at : TIMESTAMP
+  findings : TEXT
+  impression : TEXT
+  report_status : VARCHAR(30)
+}
+
+entity "SurgicalProcedure" as Surgery {
+  * procedure_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  surgeon_id : VARCHAR(10) <<FK>>
+  procedure_name : VARCHAR(160)
+  started_at : TIMESTAMP
+  ended_at : TIMESTAMP
+  location_label : VARCHAR(80)
+  procedure_status : VARCHAR(30)
+}
+
+entity "HospitalUnit" as Unit {
+  * unit_id : VARCHAR(10) <<PK>>
+  --
+  unit_name : VARCHAR(100)
+  unit_type : VARCHAR(40)
+}
+
+entity "UnitStay" as Stay {
+  * stay_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  unit_id : VARCHAR(10) <<FK>>
+  entry_timestamp : TIMESTAMP
+  exit_timestamp : TIMESTAMP
+}
+
+entity "ICD9Dictionary" as ICD9 {
+  * icd9_code : VARCHAR(12) <<PK>>
+  --
+  official_title : TEXT
+  description : TEXT
+  disease_category : VARCHAR(100)
+}
+
+entity "Diagnosis" as Diagnosis {
+  * diagnosis_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK>>
+  icd9_code : VARCHAR(12) <<FK>>
+  diagnosing_professional_id : VARCHAR(10) <<FK>>
+  diagnosis_role : VARCHAR(20)
+  recorded_at : TIMESTAMP
+}
+
+entity "DischargeRecord" as Discharge {
+  * discharge_id : VARCHAR(10) <<PK>>
+  --
+  admission_id : VARCHAR(10) <<FK, UNIQUE>>
+  discharging_professional_id : VARCHAR(10) <<FK>>
+  discharge_timestamp : TIMESTAMP
+  disposition : VARCHAR(60)
+  condition_at_discharge : TEXT
+}
+
+' Crow's-foot links: exact one to zero/many, or zero/one.
+Patient ||--o{ Admission : has
+Staff ||--o{ Admission : attends
+Admission ||--o{ Triage : triaged in
+Staff ||--o{ Triage : assesses
+Admission ||--o{ Note : contains
+Staff ||--o{ Note : authors
+Admission ||--o{ Orders : generates
+Staff ||--o{ Orders : orders
+Orders ||--o{ Exam : produces
+Admission ||--o{ Exam : includes
+Staff ||--o{ Exam : performs
+Exam ||--o| Radio : imaging details
+Admission ||--o{ Radio : includes
+Staff ||--o{ Radio : performs
+Radio ||--o{ Report : reports
+Staff ||--o{ Report : interprets
+Admission ||--o{ Surgery : includes
+Staff ||--o{ Surgery : operates
+Admission ||--o{ Stay : includes
+Unit ||--o{ Stay : hosts
+Admission ||--o{ Diagnosis : diagnosed in
+ICD9 ||--o{ Diagnosis : classifies
+Staff ||--o{ Diagnosis : assigns
+Admission ||--o| Discharge : discharge
+Staff ||--o{ Discharge : authorizes
+
+note bottom of Diagnosis
+  Business rule: each COMPLETED admission
+  must have at least one PRIMARY ICD-9 diagnosis.
+  Enforce through application or deferred validation.
+end note
+note bottom of Discharge
+  One discharge record per completed admission.
+  Discharge time must follow admission time.
+end note
+@enduml
