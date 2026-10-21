@@ -27,8 +27,13 @@ def main():
                 raise FileNotFoundError(f"Missing query: {query_file}")
 
             sql = query_file.read_text(encoding="utf-8").strip()
+            # Ignore leading SQL single-line comments before checking the statement.
+            statement = "\n".join(
+                line for line in sql.splitlines()
+                if line.strip() and not line.lstrip().startswith("--")
+            ).lstrip()
 
-            if not sql.upper().startswith(("SELECT ", "WITH ")):
+            if not statement.upper().startswith(("SELECT", "WITH")):
                 raise ValueError(f"{name} must be a read-only query")
 
             cursor = connection.execute(sql)
